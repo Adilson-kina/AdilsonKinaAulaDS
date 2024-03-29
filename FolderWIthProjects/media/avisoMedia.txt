@@ -1,0 +1,3 @@
+Fiz duas versões do exercicio 2, uma com switch case como foi pedido, porém a quantidade de código foi absurdamente grande, então decidi fazer um com if else como seria mais comum usar em um exercicio desse tipo
+Media.java feito com switch case
+MediaIf.java feito com if 
