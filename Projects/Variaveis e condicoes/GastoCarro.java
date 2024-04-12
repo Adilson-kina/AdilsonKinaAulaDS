@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class GastoCarro{
   public static void main(String[] args){
     Scanner input = new Scanner(System.in);
-    float preco_gasolina, distancia_km, custo_viagem, combustivel_necessario;
-    int km_l;
+    float preco_gasolina, distancia_km, custo_viagem, combustivel_necessario, km_l;
     System.out.print("Digite o preco atual da gasolina:");
     preco_gasolina = input.nextFloat();
     System.out.print("Digite quantos kilometro/litro seu carro gasta:");
