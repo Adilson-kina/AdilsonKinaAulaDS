@@ -6,7 +6,7 @@ public class Idade{
     int idade, dias, meses;
     System.out.print("Digite sua idade:");
     idade = input.nextInt();
-    dias = idade * 12 * 30; // meses e dias
+    dias = idade * 365; // meses e dias
     meses = idade * 12;
     System.out.printf("Voce esta vivo a aproximadamente %d dias ou %d meses", dias, meses);
     input.close();
