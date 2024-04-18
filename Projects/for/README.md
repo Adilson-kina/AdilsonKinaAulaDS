@@ -1,1 +1,8 @@
-Esses exercicios não fazem sentido
+Readme test
+
+
+| (Divisão.java)[./Divisao.java] | Ex 1, 3, 4 |
+|---------------------------------------------|------------|
+|                                             |            |
+|                                             |            |
+|                                             |            |
