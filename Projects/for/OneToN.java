@@ -8,7 +8,7 @@ public class OneToN{
     num = input.nextInt();
     if (num <= 0) {
       System.out.println("Digite um numero valido");
-      main(new String[0]);
+      main(new String[0]); 
     }
     else {
       while (i <= num){
