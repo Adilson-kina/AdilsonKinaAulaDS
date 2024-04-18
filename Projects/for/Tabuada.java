@@ -14,7 +14,7 @@ public class Tabuada{
     int num = input.nextInt(); 
     System.out.print("Digite até onde a tabuada deve ir:");
     int ate_quando = input.nextInt();
-    for (int i = 1; i <= ate_quando; i++) {
+    for (int i = 1; i <= ate_quando; i++) { 
       System.out.printf("%d x %d = %d \n", num, i, i * num);
     }
     input.close();
