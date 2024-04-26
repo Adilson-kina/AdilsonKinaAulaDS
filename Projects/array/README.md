@@ -5,3 +5,4 @@
 | <a href="./FindName.java">FindName.java</a>          | Ex 3      |
 | <a href="./MediaTurma.java">MediaTurma.java</a>      | Ex 4      |
 | <a href="./CounterToNine.java">CounterToNine.java</a>| Ex 5      |
+| <a href="./VetorSoma.java">VetorSoma.java<a/>        | Ex 6      |
