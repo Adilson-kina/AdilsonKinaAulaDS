@@ -10,6 +10,7 @@ package calc;
  */
 public class Multiplicacao extends Common{
         public float multiplicacao(){
-            return this.num1 * this.num2;
+            this.res = this.num1 * this.num2;
+            return this.res;
         }
 }

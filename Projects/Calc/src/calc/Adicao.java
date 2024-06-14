@@ -10,6 +10,7 @@ package calc;
  */
 public class Adicao extends Common{
     public float adicao(){
-        return this.num1 + this.num2;
+        this.res = this.num1 + this.num2;
+        return this.res;
     }
 }
