@@ -1,0 +1,9 @@
+1 - Tela Principal
+2 - Cadastro Funcionario
+3 - Cadastro Cliente
+4 - Cadastro Bebidas
+5 - Cadstro Estoque
+6 - Cadastro Pratos
+7 - Cadastro Pedidos
+8 - Cadastro Reserva
+https://github.com/ProfAndersonVanin/crud_java_mysql/blob/main/Aulas/Java%20%2B%20MySQL%20-%20Aula%2002.pptx
